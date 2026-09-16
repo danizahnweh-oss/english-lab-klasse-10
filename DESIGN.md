@@ -1,0 +1,2 @@
+# Visual system
+A focused afternoon study desk on a bright phone or laptop screen. White working surface, restrained crimson accent, dark ink, generous spacing. System sans for controls and prose. Desktop side navigation becomes horizontal wrapping navigation on narrow screens. Solid bordered sections, small radii, no decorative imagery. All study actions available using keyboard; feedback uses text and color.
