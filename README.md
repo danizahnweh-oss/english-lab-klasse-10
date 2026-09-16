@@ -26,3 +26,8 @@ The PDFs and MP3s in `dist/material/` were supplied by the teacher. Original mat
 
 ## Validation limits
 Syntax, content references, answer evaluation, persistence, navigation, writing tools and timer state are checked programmatically. No browser visual QA was requested. Optional WebMCP registration uses the native API when present; availability is not required for students to use the site.
+
+## Complete online original tests (2021–2025)
+All five September tests have complete editable online answer sheets with the original listening tasks and multiple-choice options, full Use of English texts and original correction/gap/select formats, and original mediation source texts. Original 2025 picture options are rendered directly from the provided PDF. Formatting of tables and line breaks is adapted for mobile use.
+
+Each answer sheet saves locally, resumes, exports as text, and has its own optional 60-minute timer. Submitting locks answers and reveals results. Grammar and closed-choice listening are checked automatically against the official keys. Open listening responses and writing receive explicit manual self-assessment controls; the total remains incomplete until these have been assessed. Editing again clears self-assessment and keeps the written responses. This is practice, not a secure assessment or teacher submission service.
