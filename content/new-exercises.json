@@ -1,0 +1,870 @@
+{
+  "basics": [
+    [
+      "Our school café ___ (open) at eight every weekday.",
+      "opens",
+      "Eine regelmäßige Handlung steht im simple present. Bei he/she/it bzw. einem einzelnen Café erhält das Verb ein -s."
+    ],
+    [
+      "Listen! The neighbours ___ (play) the piano right now.",
+      "are playing",
+      "Listen und right now weisen auf einen laufenden Vorgang hin: are + -ing bei einem Plural-Subjekt."
+    ],
+    [
+      "___ your brother at the rehearsal yesterday? (be)",
+      "Was",
+      "Eine Frage mit be benötigt kein did. Bei einer Person in der Vergangenheit: was."
+    ],
+    [
+      "We ___ (not / watch) TV on school nights. Use the simple present.",
+      "do not watch|don't watch",
+      "Bei we wird im simple present mit do not + Grundform verneint."
+    ],
+    [
+      "Complete the question: What time ___ the film start last night?",
+      "did",
+      "Die Frage bezieht sich auf die Vergangenheit: did + Subjekt + Grundform start."
+    ],
+    [
+      "Correct the sentence: Nora doesn't ___ (likes / like) spicy food.",
+      "like",
+      "Doesn't trägt bereits die grammatische Form. Das Vollverb steht in der Grundform."
+    ],
+    [
+      "Put the words in the usual order: Our club meets ___ . (on Tuesdays / in room 12)",
+      "in room 12 on Tuesdays",
+      "Eine Ortsangabe steht normalerweise vor einer Zeitangabe."
+    ],
+    [
+      "Complete the subject question: Who ___ (teach) you English every Monday?",
+      "teaches",
+      "Who fragt hier nach dem Subjekt. Ohne ein weiteres Subjekt benutzt man kein does; das Verb lautet teaches."
+    ],
+    [
+      "Complete the question tag using do: You have a spare pen, ___ ?",
+      "don't you|do you not",
+      "Mit do folgt auf die positive Aussage ein negativer question tag: don't you. Bei have für Besitz ist im britischen Englisch auch haven't you möglich; hier ist do vorgegeben."
+    ],
+    [
+      "Ask about the underlined object: Maya bought a bicycle. → What ___ ?",
+      "did Maya buy",
+      "Die Objektfrage der Vergangenheit braucht did. Buy bleibt in der Grundform."
+    ],
+    [
+      "Put often in its usual position: Lea ___ late. (is / often)",
+      "is often",
+      "Ein Häufigkeitsadverb steht normalerweise nach einer Form von be, aber vor einem anderen Vollverb."
+    ],
+    [
+      "Make the sentence negative: The visitors understood the announcement. → The visitors ___ the announcement.",
+      "did not understand|didn't understand",
+      "Simple past wird mit did not + Grundform verneint. Aus understood wird wieder understand."
+    ]
+  ],
+  "tenses": [
+    [
+      "Last Saturday, our class ___ (collect) litter by the river.",
+      "collected",
+      "Last Saturday ist ein abgeschlossener Zeitpunkt. Deshalb steht hier das simple past."
+    ],
+    [
+      "I can't open the cupboard: I ___ (lose) the key. Use the present perfect.",
+      "have lost|'ve lost",
+      "Die vergangene Handlung hat eine Folge für jetzt: have + past participle. Lose wird zu lost."
+    ],
+    [
+      "At eight yesterday evening, the children ___ (make) a model volcano. Use the past progressive.",
+      "were making",
+      "Ein Vorgang war zu einem vergangenen Zeitpunkt im Verlauf: were + -ing."
+    ],
+    [
+      "We ___ (not / see) that exhibition yet. Use the present perfect.",
+      "have not seen|haven't seen",
+      "Yet passt hier zu einer bis jetzt nicht gemachten Erfahrung. See → seen nach have."
+    ],
+    [
+      "When we reached the studio, the musicians ___ (already / leave). Use the past perfect.",
+      "had already left",
+      "Die Musiker waren vor unserer Ankunft gegangen. Vorzeitigkeit: had + past participle. Already steht dazwischen."
+    ],
+    [
+      "The festival ___ (begin) at noon yesterday.",
+      "began",
+      "Ein abgeschlossener vergangener Zeitpunkt verlangt simple past: begin → began."
+    ],
+    [
+      "I started waiting an hour ago and am still here. I ___ (wait) for an hour. Use a progressive form.",
+      "have been waiting|'ve been waiting",
+      "Eine Tätigkeit begann früher und dauert noch an: have been + -ing."
+    ],
+    [
+      "While Amir ___ (cycle) home, he noticed a lost dog. Use the past progressive.",
+      "was cycling",
+      "Der laufende Hintergrundvorgang steht im past progressive; noticed bezeichnet das kurze Ereignis."
+    ],
+    [
+      "I know this game well. I ___ (play) it many times so far. Use the present perfect.",
+      "have played|'ve played",
+      "So far meint bis jetzt: present perfect, nicht simple past mit abgeschlossenem Zeitpunkt."
+    ],
+    [
+      "Our team ___ (win) the regional final in May 2023.",
+      "won",
+      "Das Datum verortet den Sieg in einer abgeschlossenen Vergangenheit. Win → won."
+    ],
+    [
+      "By the time we reached the platform, the train ___ (depart). Use the past perfect.",
+      "had departed",
+      "Der Zug war schon vor unserer Ankunft abgefahren: had departed."
+    ],
+    [
+      "This soup ___ (taste) delicious. Use the simple present.",
+      "tastes",
+      "Taste beschreibt hier eine Eigenschaft, keine absichtlich ausgeführte Tätigkeit. Deshalb simple present mit -s."
+    ]
+  ],
+  "future": [
+    [
+      "The doorbell is ringing. 'I ___ (answer) it!' Use will.",
+      "will answer|'ll answer",
+      "Eine spontane Entscheidung wird hier mit will + Grundform ausgedrückt."
+    ],
+    [
+      "We have decided to start a podcast. We ___ (record) our first episode next week. Use going to.",
+      "are going to record|'re going to record",
+      "Ein bereits gefasster Plan: are going to + Grundform."
+    ],
+    [
+      "I ___ (meet) my tutor at 4 p.m. tomorrow; the appointment is confirmed. Use the present progressive.",
+      "am meeting|'m meeting",
+      "Eine feste Verabredung für die Zukunft kann im present progressive stehen."
+    ],
+    [
+      "If the weather ___ (improve) tomorrow, we will have a picnic.",
+      "improves",
+      "Im if-Satz einer realen zukünftigen Bedingung steht simple present, nicht will."
+    ],
+    [
+      "Look! That glass is right on the edge. It ___ (fall). Use going to.",
+      "is going to fall|'s going to fall",
+      "Die Vorhersage beruht auf sichtbaren Anzeichen: going to."
+    ],
+    [
+      "I think the repair ___ (take) about an hour. Use will.",
+      "will take|'ll take",
+      "Eine neutrale Einschätzung zur Zukunft wird hier mit will ausgedrückt."
+    ],
+    [
+      "When the concert ___ (finish), Dad will pick us up.",
+      "finishes",
+      "In einem when-Nebensatz mit Zukunftsbedeutung benutzt man hier simple present."
+    ],
+    [
+      "'Don't worry. I ___ (not / forget) your birthday.' Use will.",
+      "will not forget|won't forget",
+      "Ein Versprechen für die Zukunft: will not bzw. won't + Grundform."
+    ],
+    [
+      "Complete the future time clause: We won't leave until everyone ___ (be) ready.",
+      "is",
+      "Auch nach until steht im zukünftigen Zeitsatz normalerweise simple present. Everyone wird mit is verbunden."
+    ],
+    [
+      "The timetable says that the bus ___ (leave) at 7:20 tomorrow. Use the simple present.",
+      "leaves",
+      "Für Fahrpläne und feste Zeitpläne kann simple present die Zukunft ausdrücken."
+    ],
+    [
+      "Complete the plan with a negative form: I ___ (not / buy) a new phone; I have decided to repair mine. Use going to.",
+      "am not going to buy|'m not going to buy",
+      "Ein bewusst gefasster Plan wird mit be going to ausgedrückt; die Verneinung steht bei be."
+    ],
+    [
+      "As soon as I ___ (get) the results, I will let you know.",
+      "get",
+      "Nach as soon as steht für die Zukunft hier simple present; will folgt im Hauptsatz."
+    ]
+  ],
+  "conditionals": [
+    [
+      "If you ___ (heat) ice, it melts.",
+      "heat",
+      "Eine allgemeine Gesetzmäßigkeit lässt sich mit simple present in beiden Satzteilen ausdrücken (zero conditional)."
+    ],
+    [
+      "If Leo studies tonight, he ___ (feel) more confident tomorrow.",
+      "will feel|'ll feel",
+      "Eine reale Möglichkeit: if + simple present und will + Grundform im Hauptsatz."
+    ],
+    [
+      "If I ___ (have) a garden, I would grow tomatoes.",
+      "had",
+      "Eine vorgestellte Situation in der Gegenwart: if + simple past, would + Grundform."
+    ],
+    [
+      "If we had checked the map, we ___ (not / get) lost.",
+      "would not have got|wouldn't have got|would not have gotten|wouldn't have gotten",
+      "Eine verpasste Chance in der Vergangenheit: would not have + past participle. Got und gotten sind mögliche Varianten."
+    ],
+    [
+      "I would join the choir if I ___ (can) sing better.",
+      "could",
+      "Im Typ-II-Bedingungssatz wird can zu could. Kein would im normalen if-Satz."
+    ],
+    [
+      "If the battery ___ (be) empty tomorrow, the camera won't work.",
+      "is",
+      "Reale Bedingung für die Zukunft: simple present im if-Satz."
+    ],
+    [
+      "If Sara had set an alarm, she ___ (wake) up on time.",
+      "would have woken|'d have woken",
+      "Typ III: would have + past participle. Wake → woken."
+    ],
+    [
+      "If you ___ (tell) me yesterday, I would have helped you.",
+      "had told|'d told",
+      "Die Bedingung liegt in einer nicht mehr veränderbaren Vergangenheit: had + told."
+    ],
+    [
+      "Replace unless with if: Unless you hurry, you'll miss the bus. → If you ___ , you'll miss the bus.",
+      "do not hurry|don't hurry",
+      "Unless bedeutet hier if ... not. Die Verneinung muss bei der Umformung erhalten bleiben."
+    ],
+    [
+      "If I were you, I ___ (ask) for advice.",
+      "would ask|'d ask",
+      "If I were you ist eine typische Typ-II-Struktur, um einen Rat zu geben."
+    ],
+    [
+      "Choose the correct form: If they had invited us, we ___ . (would come / would have come)",
+      "would have come",
+      "Had invited markiert Typ III. Im Hauptsatz steht would have + past participle."
+    ],
+    [
+      "Complete the past unreal condition: The cake would have tasted better if we ___ (not / add) so much salt.",
+      "had not added|hadn't added",
+      "Im if-Satz des Typs III steht past perfect, hier verneint: had not added."
+    ]
+  ],
+  "reported": [
+    [
+      "Use backshift: 'I am nervous.' Ben said that he ___ nervous.",
+      "was",
+      "Bei backshift wird am zu was. Das Pronomen I ist bereits an Ben angepasst."
+    ],
+    [
+      "Use backshift: 'We can repair it.' They said they ___ repair it.",
+      "could",
+      "Das Modalverb can wird beim backshift zu could."
+    ],
+    [
+      "Use backshift: 'I have found my ticket.' Ava said she ___ her ticket.",
+      "had found",
+      "Present perfect wird in der indirekten Rede mit backshift zu past perfect."
+    ],
+    [
+      "Use backshift: 'The shop will close early.' He said the shop ___ early.",
+      "would close",
+      "Will wird nach einem reporting verb in der Vergangenheit bei backshift zu would."
+    ],
+    [
+      "Use backshift: 'I bought it online.' Eli said he ___ it online.",
+      "had bought",
+      "Simple past wird bei backshift zu past perfect: had bought."
+    ],
+    [
+      "Report the yes/no question with if and backshift: 'Are you ready?' She asked me ___ ready.",
+      "if I was",
+      "Indirekte Ja-/Nein-Fragen beginnen hier mit if. Danach folgt Aussagesatzstellung, nicht if was I."
+    ],
+    [
+      "Use backshift: 'Where is the station?' A visitor asked where the station ___ .",
+      "was",
+      "Indirekte Fragen haben Aussagesatzstellung. Is wird durch backshift zu was."
+    ],
+    [
+      "Use backshift: 'I was practising.' Noor said she ___ .",
+      "had been practising|had been practicing",
+      "Past progressive wird mit backshift zu past perfect progressive."
+    ],
+    [
+      "Report the request using asked: 'Please turn the music down.' Mum asked me ___ the music down.",
+      "to turn",
+      "Aufforderungen mit ask someone werden durch einen to-infinitive wiedergegeben."
+    ],
+    [
+      "Report the instruction using told: 'Don't touch that cable.' The technician told us ___ that cable.",
+      "not to touch",
+      "Eine verneinte Aufforderung wird mit not to + Grundform wiedergegeben."
+    ],
+    [
+      "It is now Tuesday. On Monday, Kim said, 'I'll send it tomorrow.' Report with backshift: Kim said she would send it ___ .",
+      "the next day|the following day",
+      "Bei veränderter Zeitperspektive wird tomorrow zu the next/following day."
+    ],
+    [
+      "Use backshift: 'I had already eaten.' He said he ___ already eaten.",
+      "had",
+      "Past perfect wird beim backshift nicht weiter zurückverschoben."
+    ]
+  ],
+  "passive": [
+    [
+      "The school newspaper ___ (print) every Friday. Use the passive.",
+      "is printed",
+      "Regelmäßiger Vorgang, singular: is + past participle."
+    ],
+    [
+      "The windows ___ (break) during the storm last night. Use the passive.",
+      "were broken",
+      "Vergangenheit und Plural: were + broken. Break ist unregelmäßig."
+    ],
+    [
+      "These bikes ___ (make) from recycled metal. Use the present passive.",
+      "are made",
+      "Present passive bei einem Plural-Subjekt: are + made."
+    ],
+    [
+      "Our costumes ___ (design) by a student last month. Use the passive.",
+      "were designed",
+      "Das Datum verlangt Vergangenheit; die Kostüme werden gestaltet: were designed."
+    ],
+    [
+      "The results ___ (announce) tomorrow. Use the passive with will.",
+      "will be announced",
+      "Futur-Passiv: will + be + past participle."
+    ],
+    [
+      "The tickets ___ (sell) already. Use the present perfect passive.",
+      "have been sold",
+      "Present perfect passive bei Plural: have been + past participle."
+    ],
+    [
+      "Visitors must ___ (accompany) by a guide. Use the passive.",
+      "be accompanied",
+      "Nach einem Modalverb folgt im Passiv be + past participle."
+    ],
+    [
+      "Complete the passive: Someone stole my wallet. → My wallet ___ .",
+      "was stolen",
+      "Das Objekt wird Subjekt. Simple past passive: was + stolen."
+    ],
+    [
+      "Complete the passive with can: You can download the form. → The form ___ .",
+      "can be downloaded",
+      "Modalverb + be + past participle. Die handelnde Person muss nicht genannt werden."
+    ],
+    [
+      "The hall is closed because it ___ (paint) at the moment. Use the present progressive passive.",
+      "is being painted",
+      "Eine passive Handlung im Verlauf: is being + past participle."
+    ],
+    [
+      "Change to the passive: They have postponed the match. → The match ___ .",
+      "has been postponed",
+      "Present perfect passive im Singular: has been postponed."
+    ],
+    [
+      "Choose the agent marker: This song was composed ___ a teenager. (by / with)",
+      "by",
+      "By nennt die handelnde Person. With würde normalerweise ein Werkzeug oder Mittel bezeichnen."
+    ]
+  ],
+  "ing": [
+    [
+      "We enjoy ___ (solve) puzzles together.",
+      "solving",
+      "Enjoy verlangt ein Gerund, also die -ing-Form."
+    ],
+    [
+      "Mila decided ___ (join) the drama club.",
+      "to join",
+      "Nach decide steht ein to-infinitive."
+    ],
+    [
+      "The volunteers left without ___ (ask) for payment.",
+      "asking",
+      "Nach der Präposition without steht die -ing-Form."
+    ],
+    [
+      "Please let me ___ (explain) what happened.",
+      "explain",
+      "Let + Person + Grundform: kein to."
+    ],
+    [
+      "Our teacher encouraged us ___ (enter) the competition.",
+      "to enter",
+      "Encourage someone to do something verlangt einen to-infinitive."
+    ],
+    [
+      "I don't mind ___ (share) my notes.",
+      "sharing",
+      "Mind wird hier mit einem Gerund verbunden."
+    ],
+    [
+      "Remember ___ (charge) your tablet before you leave tomorrow.",
+      "to charge",
+      "Remember + to-infinitive bedeutet an eine noch auszuführende Handlung denken."
+    ],
+    [
+      "I remember ___ (meet) the author at a book fair last year.",
+      "meeting",
+      "Remember + -ing bedeutet sich an eine bereits geschehene Handlung erinnern."
+    ],
+    [
+      "We were tired, so we stopped ___ (buy) a drink before continuing our walk.",
+      "to buy",
+      "Stop + to-infinitive nennt den Zweck einer Unterbrechung: anhalten, um etwas zu tun."
+    ],
+    [
+      "The loud noise prevented us from ___ (sleep).",
+      "sleeping",
+      "Nach prevented ... from steht -ing. Sleep erhält hier kein zusätzliches p."
+    ],
+    [
+      "Complete with want: I would like my friends to arrive early. → I want my friends ___ early.",
+      "to arrive",
+      "Want + Person + to-infinitive. Nicht want that my friends arrive."
+    ],
+    [
+      "The comedy made everyone ___ (laugh).",
+      "laugh",
+      "Im Aktiv folgt auf make + Person die Grundform ohne to."
+    ]
+  ],
+  "participles": [
+    [
+      "The students ___ (wait) outside are in our group.",
+      "waiting",
+      "Die Schülerinnen und Schüler warten selbst: aktive Bedeutung → -ing."
+    ],
+    [
+      "A phone ___ (find) in the gym can be collected at reception.",
+      "found",
+      "Das Telefon wurde gefunden: passive Bedeutung → past participle found."
+    ],
+    [
+      "___ (smile) at the audience, the singer stepped onto the stage.",
+      "Smiling",
+      "Die Sängerin lächelt selbst. Die aktive Begleithandlung steht als -ing-Form."
+    ],
+    [
+      "The dishes ___ (serve) at the festival were delicious.",
+      "served",
+      "Die Speisen wurden serviert: passive Bedeutung → served."
+    ],
+    [
+      "Shorten the clause: People who use this entrance need a ticket. → People ___ this entrance need a ticket.",
+      "using",
+      "Who use lässt sich bei aktiver Bedeutung zu using verkürzen."
+    ],
+    [
+      "Shorten the clause: The picture which was painted by my aunt hangs here. → The picture ___ by my aunt hangs here.",
+      "painted",
+      "Which was painted wird bei passiver Bedeutung zu painted."
+    ],
+    [
+      "Complete the perfect participle: ___ (finish) her homework, Jo went skating. Use having.",
+      "Having finished",
+      "Having + past participle zeigt, dass die erste Handlung vor der zweiten abgeschlossen war."
+    ],
+    [
+      "The hikers followed the path ___ (lead) to the lake.",
+      "leading",
+      "Der Weg führt selbst zum See: aktive Bedeutung. Deshalb leading, nicht led."
+    ],
+    [
+      "Complete the reduced clause: The invitations ___ (send) yesterday contain a mistake.",
+      "sent",
+      "Die Einladungen wurden verschickt: past participle von send ist sent."
+    ],
+    [
+      "Choose the logical subject: Walking into the kitchen, ___ . (I noticed the cake / the cake smelled delicious)",
+      "I noticed the cake",
+      "Die Person im Hauptsatz muss auch die Person sein, die in die Küche geht. Ein Kuchen kann das nicht."
+    ],
+    [
+      "The team won the final, ___ (give) their coach a wonderful surprise.",
+      "giving",
+      "Das -ing-Partizip beschreibt hier die Folge des Gewinns."
+    ],
+    [
+      "Rewrite with a passive participle: The bags that were left on the bus are in the office. → The bags ___ on the bus are in the office.",
+      "left",
+      "Die Taschen wurden zurückgelassen. Leave hat das past participle left."
+    ]
+  ],
+  "modals": [
+    [
+      "Yesterday, I ___ (must) finish my project before dinner.",
+      "had to",
+      "Must hat keine eigene Vergangenheitsform. Für eine vergangene Pflicht benutzt man had to."
+    ],
+    [
+      "You ___ bring food; lunch is provided. (don't have to / mustn't)",
+      "don't have to|do not have to",
+      "Es ist nicht nötig, Essen mitzubringen. Don't have to bedeutet keine Pflicht; mustn't wäre ein Verbot."
+    ],
+    [
+      "You ___ use a flash in this gallery. It is forbidden. (mustn't / don't have to)",
+      "mustn't|must not",
+      "Mustn't drückt ein Verbot aus."
+    ],
+    [
+      "My grandmother ___ speak three languages when she was young. Use the past form of can.",
+      "could",
+      "Could beschreibt eine allgemeine Fähigkeit in der Vergangenheit."
+    ],
+    [
+      "After trying several keys, we ___ (be able to) unlock the gate.",
+      "were able to",
+      "Für einen konkreten erfolgreichen Versuch in der Vergangenheit passt were able to."
+    ],
+    [
+      "Next year, students will ___ (be allowed to) borrow cameras.",
+      "be allowed to",
+      "Nach will steht die Grundform be. Be allowed to drückt Erlaubnis aus."
+    ],
+    [
+      "I hope to ___ (be able to) visit you soon.",
+      "be able to",
+      "Nach to ist ein Infinitiv nötig. Can besitzt keinen Infinitiv; be able to ist die Ersatzform."
+    ],
+    [
+      "When we were little, we ___ stay up after midnight. Our parents forbade it. Use allowed.",
+      "were not allowed to|weren't allowed to",
+      "Es fehlte die Erlaubnis: were not allowed to. Das ist keine fehlende Fähigkeit."
+    ],
+    [
+      "There was no homework, so we ___ (not / have to) work in the evening.",
+      "did not have to|didn't have to",
+      "In der Vergangenheit: did not have to für eine nicht bestehende Pflicht."
+    ],
+    [
+      "You ___ back up your work regularly. Choose the word that gives advice: should / mustn't.",
+      "should",
+      "Should gibt einen Rat. Mustn't drückt ein Verbot aus."
+    ],
+    [
+      "The lift is broken. Tomorrow we ___ (have to) use the stairs. Use will.",
+      "will have to|'ll have to",
+      "Eine zukünftige Pflicht wird mit will have to ausgedrückt."
+    ],
+    [
+      "Rewrite using the past form of be able to: Although the lock was rusty, Mia managed to open it. → Mia ___ open it.",
+      "was able to",
+      "Ein tatsächlich gelungener Einzelversuch in der Vergangenheit: was able to."
+    ]
+  ],
+  "comparison": [
+    [
+      "The instructions were clear, so we finished ___ (quick).",
+      "quickly",
+      "Finished beschreibt eine Handlung. Dazu passt das Adverb quickly."
+    ],
+    [
+      "This rucksack is ___ (heavy) than mine.",
+      "heavier",
+      "Bei einem Adjektiv auf Konsonant + y wird y im Komparativ zu i: heavier."
+    ],
+    [
+      "Of all our designs, this one is the ___ (simple).",
+      "simplest|most simple",
+      "Ein Superlativ vergleicht mit allen anderen. Simplest ist üblich; most simple ist ebenfalls möglich."
+    ],
+    [
+      "The puzzle was ___ (easy) than I had expected.",
+      "easier",
+      "Ein Vergleich mit than verlangt hier den Komparativ: easy → easier."
+    ],
+    [
+      "You need to listen ___ (careful) to the announcement.",
+      "carefully",
+      "Die Tätigkeit listen wird vom Adverb carefully beschrieben."
+    ],
+    [
+      "The second explanation was much ___ (clear) than the first.",
+      "clearer",
+      "Much kann einen Komparativ verstärken. Nicht much more clearer."
+    ],
+    [
+      "The ___ (early) we book, the cheaper the tickets will be.",
+      "earlier",
+      "The + Komparativ, the + Komparativ drückt je ... desto ... aus."
+    ],
+    [
+      "This is the ___ (interesting) workshop I have ever attended.",
+      "most interesting",
+      "Längere Adjektive bilden den Superlativ mit most. The ist bereits vorgegeben."
+    ],
+    [
+      "The runner trained ___ every day. (hard / hardly)",
+      "hard",
+      "Hard bedeutet intensiv/hart. Hardly bedeutet kaum und würde die Aussage verändern."
+    ],
+    [
+      "The replacement part works ___ (good) than the old one.",
+      "better",
+      "Der Komparativ des Adverbs well ist better, nicht more well."
+    ],
+    [
+      "Keep the meaning: My laptop is lighter than yours. → Your laptop is ___ than mine.",
+      "heavier",
+      "Beim Umkehren des Vergleichs muss auch das Vergleichswort wechseln: lighter ↔ heavier."
+    ],
+    [
+      "The room looked ___ after we opened the curtains. (bright / brightly)",
+      "bright",
+      "Look ist hier ein linking verb und beschreibt eine Eigenschaft des Raums. Deshalb steht das Adjektiv bright."
+    ]
+  ],
+  "quantifiers": [
+    [
+      "There isn't ___ milk left. (much / many)",
+      "much",
+      "Milk ist nicht zählbar. Deshalb much."
+    ],
+    [
+      "Only a ___ students signed up. (little / few)",
+      "few",
+      "Students ist zählbarer Plural: a few students."
+    ],
+    [
+      "My cousin wants to become ___ architect. (a / an)",
+      "an",
+      "Architect beginnt mit einem Vokallaut, daher an."
+    ],
+    [
+      "Can you give me ___ advice? (an / some)",
+      "some",
+      "Advice ist nicht zählbar und bekommt hier kein an."
+    ],
+    [
+      "Choose the plural form: ___ shoes belong to my sister. (This / These)",
+      "These",
+      "Shoes ist Plural. Dazu passt these."
+    ],
+    [
+      "We had very ___ information about the route. (few / little)",
+      "little",
+      "Information ist nicht zählbar. Very little bedeutet sehr wenig."
+    ],
+    [
+      "Choose the usual determiner in this offer: Would you like ___ juice? (some / any)",
+      "some",
+      "Bei Angeboten verwendet man normalerweise some, obwohl es eine Frage ist."
+    ],
+    [
+      "There were five volunteers. ___ of them arrived on time. (All / Every)",
+      "All",
+      "All of them bezieht sich auf die ganze Gruppe. Every verlangt normalerweise ein Nomen im Singular."
+    ],
+    [
+      "Complete with a or an: It is ___ useful website.",
+      "a",
+      "Useful beginnt mit einem gesprochenen j-Laut, nicht mit einem Vokallaut. Deshalb a useful website."
+    ],
+    [
+      "Complete with a or an: We waited for ___ hour.",
+      "an",
+      "Das h in hour wird nicht gesprochen. Das erste gesprochene Zeichen ist ein Vokal: an hour."
+    ],
+    [
+      "Complete the specific reference: Most ___ the players in our team cycle to training.",
+      "of",
+      "Vor einer bestimmten Gruppe mit the: most of the players. Allgemein heißt es most players."
+    ],
+    [
+      "Correct the noun: The librarian gave us two useful ___ . (piece of information)",
+      "pieces of information",
+      "Information bleibt unzählbar. Die zählbare Einheit piece wird in den Plural gesetzt."
+    ]
+  ],
+  "prepositions": [
+    [
+      "We talked ___ the break. (during / while)",
+      "during",
+      "The break ist eine Nomengruppe. Davor steht during."
+    ],
+    [
+      "___ I was waiting for the bus, I revised vocabulary. (During / While)",
+      "While",
+      "I was waiting ist ein vollständiger Teilsatz. Dafür benutzt man while."
+    ],
+    [
+      "The café has been open ___ March. (since / for)",
+      "since",
+      "March bezeichnet den Anfang des Zeitraums, nicht seine Dauer."
+    ],
+    [
+      "We have known each other ___ six months. (since / for)",
+      "for",
+      "Six months ist eine Dauer: for."
+    ],
+    [
+      "The match was cancelled ___ the heavy snow. (because / because of)",
+      "because of",
+      "Nach because of steht eine Nomengruppe. Because allein müsste einen vollständigen Satz einleiten."
+    ],
+    [
+      "We went swimming ___ it was raining. (although / despite)",
+      "although",
+      "It was raining ist ein Teilsatz: although. Despite würde eine Nomengruppe verlangen."
+    ],
+    [
+      "The bus arrived on time ___ the traffic. (despite / although)",
+      "despite",
+      "The traffic ist eine Nomengruppe. Deshalb despite."
+    ],
+    [
+      "Asha is interested ___ astronomy.",
+      "in",
+      "Die feste Verbindung lautet interested in something."
+    ],
+    [
+      "Correct the phrase: They kept walking in spite ___ the strong wind.",
+      "of",
+      "In spite of wird immer mit of vervollständigt."
+    ],
+    [
+      "Complete the phrase: The success of the project depends ___ everyone doing their part.",
+      "on",
+      "Die feste Verbindung lautet depend on. Danach kann eine -ing-Konstruktion folgen."
+    ],
+    [
+      "Complete with a preposition: We improved our pronunciation ___ listening to short recordings every day. (by / for)",
+      "by",
+      "By + -ing nennt das Mittel oder die Methode: dadurch, dass wir zuhören."
+    ],
+    [
+      "Keep the meaning: Although she was tired, she helped. → Despite ___ tired, she helped.",
+      "being",
+      "Nach despite folgt hier eine -ing-Form. Obwohl + Satz wird zu despite + being tired."
+    ]
+  ],
+  "relatives": [
+    [
+      "The student ___ won the prize is in my class. (who / which)",
+      "who",
+      "Who bezieht sich auf eine Person; which auf eine Sache."
+    ],
+    [
+      "The app ___ we tested yesterday works offline. Use which or who.",
+      "which",
+      "Der Bezug ist die Sache app, daher which."
+    ],
+    [
+      "That's the musician ___ songs we heard on the radio.",
+      "whose",
+      "Whose stellt eine Besitz- oder Zugehörigkeitsbeziehung her: dessen/deren Lieder."
+    ],
+    [
+      "Our sports hall, ___ opened last year, has a climbing wall.",
+      "which",
+      "Zusätzliche Information mit Kommas verlangt hier which. That passt in diesen non-defining clause nicht."
+    ],
+    [
+      "Mina, ___ sits next to me, speaks Italian.",
+      "who",
+      "Eine zusätzliche Information über eine Person wird hier mit who eingeleitet, nicht that."
+    ],
+    [
+      "The town ___ my grandparents live is near the coast. Use where or which.",
+      "where",
+      "Where leitet hier eine Ortsangabe ein: dort, wo sie leben."
+    ],
+    [
+      "This is the artist ___ bicycle was stolen outside the museum.",
+      "whose",
+      "Das Fahrrad gehört zur genannten Person: whose bicycle."
+    ],
+    [
+      "Choose the correct form: The writer, ___ is visiting our school, has published three novels. (who / who's)",
+      "who",
+      "Is steht bereits im Satz. Who's würde who is bedeuten und is doppeln."
+    ],
+    [
+      "Join the sentences: My aunt lives in York. She teaches art. → My aunt, ___ in York, teaches art.",
+      "who lives",
+      "Der Relativsatz ergänzt die Person: who lives. Durch die Kommas ist er nicht notwendig zur Identifikation."
+    ],
+    [
+      "Can you omit the relative pronoun? Choose yes or no: 'The film that we watched was funny.'",
+      "yes",
+      "That ist hier das Objekt eines defining relative clause. Es kann entfallen: the film we watched."
+    ],
+    [
+      "Can you omit the relative pronoun? Choose yes or no: 'The robot that cleans the floor is broken.'",
+      "no",
+      "That ist hier das Subjekt des Relativsatzes. Ohne that fehlt dem Verb cleans das Subjekt."
+    ],
+    [
+      "Combine with a relative pronoun: We use a website. Its exercises are free. → We use a website ___ exercises are free.",
+      "whose",
+      "Whose kann auch auf Dinge verweisen: eine Website, deren Übungen kostenlos sind."
+    ]
+  ],
+  "possessive": [
+    [
+      "This is ___ notebook. (Alex, Singular-Genitiv)",
+      "Alex's|Alex’s",
+      "Bei einem Namen im Singular wird der Genitiv mit Apostroph + s gebildet."
+    ],
+    [
+      "The ___ changing room is upstairs. (players, Plural-Genitiv)",
+      "players'|players’",
+      "Der regelmäßige Plural endet schon auf s. Der Apostroph steht dahinter."
+    ],
+    [
+      "The ___ coats are on the hooks. (women, Plural-Genitiv)",
+      "women's|women’s",
+      "Women ist ein unregelmäßiger Plural ohne End-s. Deshalb Apostroph + s."
+    ],
+    [
+      "The tablet is charging because ___ battery is empty. (its / it's)",
+      "its",
+      "Its ist das Possessivwort. It's bedeutet it is oder it has."
+    ],
+    [
+      "The artist ___ (draw) this picture yesterday.",
+      "drew",
+      "Simple past von draw: drew. Das past participle wäre drawn."
+    ],
+    [
+      "I have never ___ (ride) a horse.",
+      "ridden",
+      "Nach have folgt das past participle: ride → rode → ridden."
+    ],
+    [
+      "Write the number in English digits with a decimal point: drei Komma fünf.",
+      "3.5",
+      "Das englische Dezimaltrennzeichen ist ein Punkt."
+    ],
+    [
+      "Choose the right verb: My sister hopes to ___ a journalist. (become / receive)",
+      "become",
+      "Become bedeutet werden. Receive bedeutet bekommen/erhalten."
+    ],
+    [
+      "The ___ toys are in the box. (babies, Plural-Genitiv)",
+      "babies'|babies’",
+      "Babies ist ein regelmäßiger Plural auf s. Der Apostroph folgt nach diesem s."
+    ],
+    [
+      "Correct the noun: Both hikers put on their ___ . (jacket)",
+      "jackets",
+      "Jede Person trägt ihre eigene Jacke. Im Englischen verwendet man hier den distributiven Plural."
+    ],
+    [
+      "Choose the correct contraction: ___ been a long day. (Its / It's)",
+      "It's|It’s",
+      "It's steht hier für it has; zusammen mit been entsteht das present perfect."
+    ],
+    [
+      "Complete both forms in this order, separated by a comma: The cat ___ (catch) a mouse yesterday; it has ___ (catch) three this week.",
+      "caught, caught",
+      "Catch hat sowohl im simple past als auch als past participle die Form caught."
+    ]
+  ]
+}

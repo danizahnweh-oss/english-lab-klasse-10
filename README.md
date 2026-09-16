@@ -4,8 +4,8 @@ Self-study English platform for September 29, 2026. Main corpus: 2021–2025, ol
 
 ## Contents
 - 75 adapted, individually answerable Use of English items, 15 for each year 2021–2025; aligned to supplied answer keys.
-- 42 authored foundation questions and 14 German grammar reference chapters.
-- 12-question diagnostic, feedback, mistake practice and device-local progress.
+- 210 independent exercises (42 existing foundations + 168 new questions), 14 German grammar chapters, and explicit basic/application/transfer levels.
+- 12-question independent diagnostic, balanced mixed practice, feedback, mistake practice and device-local progress. Topic and mixed practice exclude original test questions by default; original questions require choosing a year explicitly.
 - Original listening recordings, written notes and answer-key self-checks. Free listening answers are not automatically graded.
 - Writing workspaces for mediation in 2021–2025 and two supplementary summer-test comments; word count, planning, checklists and downloads. No automatic writing assessment.
 - Original PDFs, audio, 60-minute practice timer and manually entered scores.
@@ -31,3 +31,6 @@ Syntax, content references, answer evaluation, persistence, navigation, writing 
 All five September tests have complete editable online answer sheets with the original listening tasks and multiple-choice options, full Use of English texts and original correction/gap/select formats, and original mediation source texts. Original 2025 picture options are rendered directly from the provided PDF. Formatting of tables and line breaks is adapted for mobile use.
 
 Each answer sheet saves locally, resumes, exports as text, and has its own optional 60-minute timer. Submitting locks answers and reveals results. Grammar and closed-choice listening are checked automatically against the official keys. Open listening responses and writing receive explicit manual self-assessment controls; the total remains incomplete until these have been assessed. Editing again clears self-assessment and keeps the written responses. This is practice, not a secure assessment or teacher submission service.
+
+## Independent practice content
+The 168 additional questions live in `content/new-exercises.json`, with supplemental rules in `content/grammar-additions.json`. Run `python3 content/build-training.py` to regenerate `dist/training-data.js`. Existing IDs and original test data stay unchanged. Every topic has 15 independent questions: 7 foundation, 4 application and 4 transfer. Topic rounds contain up to 12 questions; mixed rounds contain 12 distinct topics. Selection prioritises unseen questions, then unresolved mistakes, then known questions. No claim of unlimited generated exercises is made.
