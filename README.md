@@ -6,7 +6,7 @@ Self-study English platform for September 29, 2026. Main corpus: 2021–2025, ol
 - 75 adapted, individually answerable Use of English items, 15 for each year 2021–2025; aligned to supplied answer keys.
 - 210 independent exercises (42 existing foundations + 168 new questions), 14 German grammar chapters, and explicit basic/application/transfer levels.
 - 12-question independent diagnostic, balanced mixed practice, feedback, mistake practice and device-local progress. Topic and mixed practice exclude original test questions by default; original questions require choosing a year explicitly.
-- Original listening recordings, written notes and answer-key self-checks. Free listening answers are not automatically graded.
+- Listening is assessed exclusively within the original online tests. No separate listening practice or listening assignments in the preparation plan; legacy listening links explain this and point to the exam library. Free listening answers use manual self-assessment.
 - Writing workspaces for mediation in 2021–2025 and two supplementary summer-test comments; word count, planning, checklists and downloads. No automatic writing assessment.
 - Original PDFs, audio, 60-minute practice timer and manually entered scores.
 

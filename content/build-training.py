@@ -16,6 +16,8 @@ js+='window.LAB_DATA.questions.push(...'+json.dumps(questions,ensure_ascii=False
 js+='window.LAB_DATA.plan[0] = ["16.09.","Lernstand entdecken","Zwölf eigenständige Fragen zeigen dir, welche Regeln du wiederholen solltest.","diagnostic",15];\n'
 js+='window.LAB_DATA.plan[5] = ["21.09.","Wissen in neuen Situationen anwenden","Eine gemischte Runde mit neuen Aufgaben, danach Fehler verstehen.","mixed",20];\n'
 js+='window.LAB_DATA.plan[8] = ["24.09.","Noch eine gemischte Übungsrunde","Neue Sätze zu zwölf Themen. Bisher unbearbeitete Aufgaben kommen zuerst.","mixed",20];\n'
+js+='window.LAB_DATA.plan[3] = ["19.09.","Modalverben sicher verwenden","Pflicht, Erlaubnis und Vermutung mit neuen Grammatikaufgaben üben.","topic:modals",20];\n'
+js+='window.LAB_DATA.plan[9] = ["25.09.","Grammatik festigen","Eine gemischte Runde mit eigenständigen Aufgaben vor der Generalprobe.","mixed",20];\n'
 additions=json.loads((root/'content/grammar-additions.json').read_text())
 js+='for (const [id, forms] of Object.entries('+json.dumps(additions,ensure_ascii=False,separators=(',',':'))+')) { window.LAB_DATA.grammar.find(t=>t.id===id).forms.push(...forms); }\n'
 (root/'dist/training-data.js').write_text(js)
