@@ -4,7 +4,7 @@ product
 ## Users
 German Gymnasium students, class 10, preparing independently for September 29, 2026.
 ## Product Purpose
-Learn with supplied 2018–2025 English tests, identify gaps, revisit grammar, practise grammar and mediation. Reserve listening recordings and questions exclusively for the original exams, without advance listening practice.
+Learn with supplied 2018–2025 English tests, identify gaps, revisit grammar, practise grammar. Mediation is offered only within the complete original exams. Reserve listening recordings and questions exclusively for the original exams, without advance listening practice.
 ## Brand Personality
 Calm, clear, encouraging. User confirmed a quiet learning workspace, short sessions, immediate feedback, German explanations and mobile usability.
 ## Anti-references

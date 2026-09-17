@@ -7,7 +7,7 @@ Self-study English platform for September 29, 2026. Main corpus: 2021–2025, ol
 - 210 independent exercises (42 existing foundations + 168 new questions), 14 German grammar chapters, and explicit basic/application/transfer levels.
 - 12-question independent diagnostic, balanced mixed practice, feedback, mistake practice and device-local progress. Topic and mixed practice exclude original test questions by default; original questions require choosing a year explicitly.
 - Listening is assessed exclusively within the original online tests. No separate listening practice or listening assignments in the preparation plan; legacy listening links explain this and point to the exam library. Free listening answers use manual self-assessment.
-- Writing workspaces for mediation in 2021–2025 and two supplementary summer-test comments; word count, planning, checklists and downloads. No automatic writing assessment.
+- Preparation contains grammar only. Mediation remains within the complete original exams, with no separate writing workspace or writing plan entry. Previously saved drafts remain in the progress export. Plan entries retain their original storage indices.
 - Original PDFs, audio, 60-minute practice timer and manually entered scores.
 
 ## Running
@@ -19,7 +19,7 @@ Responses and drafts are saved in this browser's localStorage (`english-lab-v1`)
 ## Sources and provenance
 The PDFs and MP3s in `dist/material/` were supplied by the teacher. Original material retains its source credits. The interactive grammar sentences are shortened/adapted from the tests and clearly marked; additional exercises and grammar explanations are newly authored. Complete original context and grading rules remain in the PDFs.
 
-2018 has no supplied solutions or audio. No 2020 material was supplied. The two 2024 Textprod PDFs are variants of the same summer writing task, one including a rubric. Summer writing tasks are optional, not a fourth section of the September test.
+2018 has no supplied solutions or audio. No 2020 material was supplied. The two 2024 Textprod PDFs are variants of the same summer writing task, one including a rubric. Summer writing tasks are retained as source files but are not offered in the learning interface.
 
 ## Deployment
 `.openai/hosting.json` identifies the Sites project. GitHub Actions publishes the `dist/` directory to GitHub Pages. No secrets or learner information are part of the repository.
