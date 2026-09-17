@@ -1,0 +1,72 @@
+{
+  "basics": {
+    "choice": ["Which question asks about the person who designed the poster?", ["Who designed the poster?", "Who did designed the poster?", "Who does designed the poster?"], "Who designed the poster?", "Bei einer Subjektfrage steht who direkt vor dem Verb im simple past: Who designed …? Eine zusätzliche Form von do ist hier nicht nötig."],
+    "order": [["Why", "did", "the volunteers", "leave", "so early?"], "Eine Objekt- oder Ergänzungsfrage im simple past folgt dem Muster Fragewort + did + Subjekt + Grundform."],
+    "error": [["The guide", "didn't", "explained", "the route."], "explained", "The guide didn't explain the route.", "Nach didn't steht die Grundform explain. Die Vergangenheit wird bereits durch did ausgedrückt."]
+  },
+  "tenses": {
+    "choice": ["By the time the film started, we ___ our seats. Use the past perfect.", ["had found", "have found", "were finding"], "had found", "Die Sitzplätze wurden vor dem Filmstart gefunden. Past perfect: had + past participle found."],
+    "order": [["We", "had already", "packed our bags", "when", "the taxi arrived."], "Had already packed zeigt, was vor der Ankunft des Taxis abgeschlossen war. Der spätere Vorgang steht im simple past."],
+    "error": [["We", "have visited", "the science museum", "last Saturday."], "have visited", "We visited the science museum last Saturday.", "Last Saturday bezeichnet einen abgeschlossenen Zeitpunkt. Dazu passt simple past, nicht present perfect."]
+  },
+  "future": {
+    "choice": ["As soon as the bus ___, we will get on.", ["arrives", "will arrive", "arrive"], "arrives", "Nach as soon as steht im zukünftigen Zeitsatz simple present. Bus ist Singular: arrives."],
+    "order": [["I", "will send you", "a message", "as soon as", "I arrive."], "Im Hauptsatz steht will send. Der Zeitsatz mit as soon as verwendet simple present für die Zukunft."],
+    "error": [["When", "the visitors", "will arrive,", "we will show them", "the exhibition."], "will arrive,", "When the visitors arrive, we will show them the exhibition.", "Im when-Zeitsatz mit Zukunftsbedeutung steht hier arrive, ohne will. Will bleibt im Hauptsatz."]
+  },
+  "conditionals": {
+    "choice": ["If I had saved the document, I ___ my work.", ["would not have lost", "will not lose", "would not lose"], "would not have lost", "Typ III beschreibt eine nicht erfüllte Bedingung in der Vergangenheit: had saved + would not have lost."],
+    "order": [["If", "we had left earlier,", "we", "would have caught", "the last train."], "Typ III: Im if-Satz steht past perfect, im Hauptsatz would have + past participle."],
+    "error": [["If", "I would have", "more free time,", "I would join", "the band."], "I would have", "If I had more free time, I would join the band.", "Bei dieser vorgestellten Situation der Gegenwart steht simple past im if-Satz: If I had. Would steht im Hauptsatz."]
+  },
+  "reported": {
+    "choice": ["Report with backshift: 'Where do you live?' She asked me ___ .", ["where I lived", "where did I live", "where I live"], "where I lived", "Die indirekte Frage hat Aussagesatzstellung ohne did. Mit dem verlangten backshift wird live zu lived."],
+    "order": [["The reporter", "asked", "where", "the volunteers", "had found", "the missing dog."], "Indirekte Fragen haben Aussagesatzstellung: where + Subjekt + Verb. Had found ist die Form mit backshift von found."],
+    "error": [["The teacher", "asked", "why", "were we", "laughing."], "were we", "The teacher asked why we were laughing.", "In der indirekten Frage steht das Subjekt vor dem Verb: why we were laughing."]
+  },
+  "passive": {
+    "choice": ["The broken window ___ tomorrow. Use the passive with will.", ["will be replaced", "will replace", "will been replaced"], "will be replaced", "Futur-Passiv: will + be + past participle. Das Fenster führt die Handlung nicht selbst aus."],
+    "order": [["The new library", "will", "be opened", "by", "the mayor."], "Will be opened ist Futur-Passiv. By nennt die handelnde Person."],
+    "error": [["The invitations", "have", "send", "by email."], "send", "The invitations have been sent by email.", "Present perfect passive: have been + past participle. Send muss hier durch been sent ersetzt werden."]
+  },
+  "ing": {
+    "choice": ["We are looking forward to ___ our exchange partners.", ["meeting", "meet", "have met"], "meeting", "To gehört hier zur festen Verbindung look forward to und ist eine Präposition. Danach folgt -ing."],
+    "order": [["The coach", "encouraged", "the players", "to try", "a new strategy."], "Encourage someone to do something: Nach der Person steht ein to-infinitive."],
+    "error": [["Our classmates", "enjoy", "to work", "on creative projects."], "to work", "Our classmates enjoy working on creative projects.", "Enjoy verlangt ein Gerund: working statt to work."]
+  },
+  "participles": {
+    "choice": ["The photos ___ during our trip are on the school website.", ["taken", "taking", "took"], "taken", "Die Fotos wurden aufgenommen. Die passive Bedeutung verlangt das past participle taken."],
+    "order": [["Having", "checked", "the timetable,", "we", "walked", "to the station."], "Having checked drückt eine abgeschlossene frühere Handlung aus. We ist das Subjekt beider Handlungen."],
+    "error": [["The mural", "painting", "by our class", "won a prize."], "painting", "The mural painted by our class won a prize.", "Das Wandbild wurde gemalt. Passive Bedeutung: painted statt painting."]
+  },
+  "modals": {
+    "choice": ["Entry is free. You ___ buy a ticket.", ["don't have to", "mustn't", "aren't allowed to"], "don't have to", "Don't have to bedeutet, dass keine Pflicht besteht. Die anderen beiden Formen würden ein Verbot ausdrücken."],
+    "order": [["Next term,", "we", "will", "be allowed to", "use", "the recording studio."], "Für eine zukünftige Erlaubnis steht will be allowed to. Das Modalverb may hat keinen Infinitiv nach will."],
+    "error": [["At tomorrow's workshop,", "we will", "can", "try", "the new equipment."], "can", "At tomorrow's workshop, we will be able to try the new equipment.", "Nach will ist eine Grundform nötig. Statt can steht die Ersatzform be able to."]
+  },
+  "comparison": {
+    "choice": ["The second speaker explained the rules ___ than the first.", ["more clearly", "more clear", "most clearly"], "more clearly", "Explained wird durch ein Adverb beschrieben. Der Vergleich mit than verlangt more clearly."],
+    "order": [["The more", "carefully", "you read the instructions,", "the fewer", "mistakes", "you will make."], "The + Komparativ, the + Komparativ bedeutet je … desto … . Mistakes ist zählbar, deshalb fewer."],
+    "error": [["This route", "is", "more shorter", "than", "the coastal path."], "more shorter", "This route is shorter than the coastal path.", "Short bildet den Komparativ mit -er. Ein zusätzliches more würde die Steigerung doppelt markieren."]
+  },
+  "quantifiers": {
+    "choice": ["We have ___ time left, so we can check our answers once more.", ["a little", "a few", "many"], "a little", "Time ist nicht zählbar. A little bedeutet etwas Zeit; a few und many passen zu zählbarem Plural."],
+    "order": [["Only", "a few", "of the students", "had", "enough time", "to finish."], "A few of the students bezeichnet einige aus einer bestimmten Gruppe. Enough steht vor dem Nomen time."],
+    "error": [["The website", "provides", "many", "useful information", "about local events."], "many", "The website provides a lot of useful information about local events.", "Information ist nicht zählbar. Many passt deshalb nicht; a lot of oder much sind grammatisch möglich. A lot of ist im positiven Alltagssatz üblich."]
+  },
+  "prepositions": {
+    "choice": ["___ the strong wind, the ferry arrived on time.", ["Despite", "Although", "Because"], "Despite", "The strong wind ist eine Nomengruppe. Despite passt davor; although und because benötigen hier einen vollständigen Nebensatz."],
+    "order": [["Despite", "feeling tired,", "the volunteers", "continued", "to clear", "the beach."], "Nach despite kann eine -ing-Form stehen. Ein vollständiger Nebensatz würde stattdessen although verlangen."],
+    "error": [["Although", "the heavy rain,", "the match", "continued."], "Although", "Despite the heavy rain, the match continued.", "The heavy rain ist eine Nomengruppe. Deshalb despite statt although. Alternativ wäre Although it was raining heavily ein vollständiger Nebensatz."]
+  },
+  "relatives": {
+    "choice": ["Our guide, ___ grew up on the island, knows every path.", ["who", "that", "whose"], "who", "Der zusätzliche Relativsatz steht zwischen Kommas und bezieht sich auf eine Person. Hier ist who richtig; that passt nicht in einen non-defining relative clause."],
+    "order": [["The student", "whose", "bicycle", "was stolen", "reported", "the theft."], "Whose zeigt, wem das Fahrrad gehört. Der Relativsatz lautet whose bicycle was stolen."],
+    "error": [["My neighbour,", "which", "teaches biology,", "helped us", "identify the bird."], "which", "My neighbour, who teaches biology, helped us identify the bird.", "Der Bezug ist eine Person. Im zusätzlichen Relativsatz muss deshalb who statt which stehen."]
+  },
+  "possessive": {
+    "choice": ["Choose the plural possessive: The ___ luggage was already on the bus. (three passengers)", ["passengers'", "passenger's", "passengers"], "passengers'", "Der regelmäßige Plural passengers endet auf s. Für den Genitiv steht der Apostroph hinter diesem s."],
+    "order": [["The children's", "artwork", "was displayed", "at", "the school exhibition."], "Children ist ein unregelmäßiger Plural ohne End-s. Der Genitiv wird mit Apostroph + s gebildet: children's."],
+    "error": [["The robot", "stopped", "because", "it's battery", "was empty."], "it's battery", "The robot stopped because its battery was empty.", "Das Possessivwort its schreibt man ohne Apostroph. It's bedeutet it is oder it has und passt hier nicht."]
+  }
+}
